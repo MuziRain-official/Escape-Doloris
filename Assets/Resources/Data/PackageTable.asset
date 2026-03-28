@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e0dfa0f826394a343baf78b27fbc1cf2, type: 3}
+  m_Name: PackageTable
+  m_EditorClassIdentifier: Assembly-CSharp::PackageTable
+  DataList:
+  - id: 1
+    name: "\u4E30\u5DDD\u7965\u5B50"
+    description: "\u795E\u79D8\u84DD\u53D1\u5C0F\u5973\u5B69\u5728\u6210\u4E3A\u795E\u660E\u4E4B\u524D\u7684\u4EBA\u95F4\u4F53\u8DCC\u4E1D\u889C"
+    sprite: {fileID: -593243780, guid: 1aad8822b08e6f540b6680810a438294, type: 3}
+    level: 1
+    itemType: 0
+  - id: 2
+    name: "\u82E5\u53F6\u7766"
+    description: "\u957F\u5D0E\u7D20\u4E16\u7684\u5973\u513F\uFF0C\u6708\u4E4B\u68EE\u7684\u5C0F\u9EC4\u74DC\uFF0C\u53CC\u9762\u5E1D\u738B\u7766\u5B50\u7C73"
+    sprite: {fileID: -1210972942, guid: e8d7d12b8d70984499fce95f4c7e55de, type: 3}
+    level: 2
+    itemType: 0
+  - id: 3
+    name: "\u5343\u65E9\u7231\u97F3"
+    description: "\u5728\u5979\u4E4B\u524D\u7684\u7C89\u6BDB\u90FD\u53EB\u4E38\u5C71\u5F69\uFF0C\u5728\u5979\u4E4B\u540E\u7684\u7C89\u6BDB\u90FD\u53EB\u5343\u65E9\u7231\u97F3"
+    sprite: {fileID: -461679985, guid: dd0c02f967528284bbabe542bc367ff0, type: 3}
+    level: 3
+    itemType: 0
+  - id: 4
+    name: "\u6237\u5C71\u9999\u6F84"
+    description: "\u4F60\u542C\u8BF4\u8FC7\u90A6\u9AD8\u7956\u7684\u6545\u4E8B\u5417\uFF1F\u5143\u548C\u4E8C\u5E74......"
+    sprite: {fileID: 960955347, guid: daa23f0ffdc36f24f99477dca8cd26fc, type: 3}
+    level: 4
+    itemType: 0
+  - id: 5
+    name: "\u4ED3\u7530\u771F\u767D"
+    description: "\u5C0F\u54E5\u5C0F\u54E5\uFF0C\u4F5C\u4E3A\u987B\u4F50\u4E4B\u7537\uFF0C\u4F60\u53EF\u80FD\u771F\u7684\u5F97\u8BA8\u4F10\u6211\u4E86"
+    sprite: {fileID: -819009313, guid: 95115a74d24441542af627c30a074465, type: 3}
+    level: 5
+    itemType: 0
+  - id: 6
+    name: "\u51D1\u53CB\u90A3\u5E0C"
+    description: "\u9E2D\u68A8\uFF01"
+    sprite: {fileID: 397813367, guid: 27a777987f0ae344fbe5b015df259f7d, type: 3}
+    level: 0
+    itemType: 1
+  - id: 7
+    name: "\u9AD8\u677E\u706F"
+    description: "\u51B7\u77E5\u8BC6\uFF1A\u8FD9\u4E0D\u662F\u4F01\u9E45"
+    sprite: {fileID: -2029706330, guid: b0c89646ed2b1bb41b3c5be6a1781f7a, type: 3}
+    level: 0
+    itemType: 1
+  - id: 8
+    name: "\u5F26\u5377\u5FC3"
+    description: "\u5F26\u5377\u5BB6\u7684\u5927\u624B\uFF081/1\uFF09"
+    sprite: {fileID: -1948669015, guid: 1186a4dc1be359c439f0f3fcc6664aef, type: 3}
+    level: 0
+    itemType: 1

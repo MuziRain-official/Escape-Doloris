@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 383ad015665fe3b4482750516dab7627, type: 3}
+  m_Name: StoreTable
+  m_EditorClassIdentifier: Assembly-CSharp::StoreTable
+  DataList:
+  - id: 1
+    name: "\u4E30\u5DDD\u7965\u5B50"
+    sprite: {fileID: -593243780, guid: 1aad8822b08e6f540b6680810a438294, type: 3}
+    level: 1
+    itemType: 0
+  - id: 2
+    name: "\u82E5\u53F6\u7766"
+    sprite: {fileID: -1210972942, guid: e8d7d12b8d70984499fce95f4c7e55de, type: 3}
+    level: 1
+    itemType: 0
+  - id: 3
+    name: "\u5343\u65E9\u7231\u97F3"
+    sprite: {fileID: -461679985, guid: dd0c02f967528284bbabe542bc367ff0, type: 3}
+    level: 1
+    itemType: 0
+  - id: 4
+    name: "\u6237\u5C71\u9999\u6F84"
+    sprite: {fileID: 960955347, guid: daa23f0ffdc36f24f99477dca8cd26fc, type: 3}
+    level: 1
+    itemType: 0
+  - id: 5
+    name: "\u4ED3\u7530\u771F\u767D"
+    sprite: {fileID: -819009313, guid: 95115a74d24441542af627c30a074465, type: 3}
+    level: 1
+    itemType: 0
+  - id: 6
+    name: "\u51D1\u53CB\u90A3\u5E0C"
+    sprite: {fileID: 397813367, guid: 27a777987f0ae344fbe5b015df259f7d, type: 3}
+    level: 1
+    itemType: 1
+  - id: 7
+    name: "\u9AD8\u677E\u706F"
+    sprite: {fileID: -2029706330, guid: b0c89646ed2b1bb41b3c5be6a1781f7a, type: 3}
+    level: 1
+    itemType: 1
+  - id: 8
+    name: "\u5F26\u5377\u5FC3"
+    sprite: {fileID: -1948669015, guid: 1186a4dc1be359c439f0f3fcc6664aef, type: 3}
+    level: 1
+    itemType: 1

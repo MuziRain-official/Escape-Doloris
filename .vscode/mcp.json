@@ -1,0 +1,10 @@
+{
+    "servers": {
+        "my-mcp-server-7f9e52ff": {
+            "type": "stdio",
+            "command": "npx",
+            "args": ["-y", "@akiojin/unity-editor-mcp@latest"]
+        }
+    },
+    "inputs": []
+}

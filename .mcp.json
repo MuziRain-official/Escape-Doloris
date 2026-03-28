@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "unity-editor": {
+      "command": "npx",
+      "args": ["@akiojin/unity-editor-mcp@latest"]
+    }
+  }
+}

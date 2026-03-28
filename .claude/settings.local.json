@@ -1,0 +1,24 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "Bash(where node:*)",
+      "Bash(where npx:*)",
+      "Bash(npm --version)",
+      "Bash(npx @akiojin/unity-editor-mcp@latest)",
+      "Bash(npx @akiojin/unity-editor-mcp@latest get-scene-objects)",
+      "Read(//c/Users/晓语/.claude/**)",
+      "Read(//c/Users/晓语/AppData/Roaming/Code/User/**)",
+      "Read(//c/Users/晓语/AppData/Roaming/**)",
+      "Read(//c/Users/晓语/**)",
+      "Bash(npx -y @akiojin/unity-editor-mcp@latest list-tools)",
+      "Bash(npx -y @akiojin/unity-editor-mcp@latest)",
+      "Bash(node -e \"console.log\\(''test''\\)\")"
+    ],
+    "additionalDirectories": [
+      "f:\\UnityDemo\\Escape Doloris",
+      "C:\\Users\\晓语"
+    ]
+  }
+}
